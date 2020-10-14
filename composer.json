@@ -1,21 +1,21 @@
 {
-    "name": "laravel-enso/cnp-validator",
+    "name": "genealogiawebsite/cnp-validator",
     "description": "Romanian CNP validator for Laravel",
     "keywords": [
         "laravel",
-        "laravel-enso",
+        "genealogiawebsite",
         "cnp",
         "cnp-validator",
         "validator"
     ],
     "type": "library",
-    "homepage": "https://github.com/laravel-enso/CnpValidator",
+    "homepage": "https://github.com/genealogiawebsite/CnpValidator",
     "license": "MIT",
     "authors": [
         {
             "name": "Adrian Ocneanu",
             "email": "aocneanu@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://genealogiawebsite.com",
             "role": "Developer"
         }
     ],
